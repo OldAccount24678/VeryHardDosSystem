@@ -5,6 +5,8 @@
 
 😉Повторяй за мной и у тебя обязательно все получится
 
+# Инструкция по установке на Termux 😳😥
+
 $ `apt update && apt upgrade`
 
 $ `apt install git && apt install python3`
