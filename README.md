@@ -11,6 +11,8 @@ $ `apt update && apt upgrade`
 
 $ `apt install git && apt install python3`
 
+$ `pip3 install colorama`
+
 $ `git clone https://github.com/AmokDEV/VeryHardDosSystem`
 
 $ `cd VeryHardDosSystem`
