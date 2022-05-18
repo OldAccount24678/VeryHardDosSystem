@@ -7,17 +7,17 @@
 
 # Инструкция по установке на Termux 😳😥
 
-$ `apt update && apt upgrade`
+$ ```apt update && apt upgrade```
 
-$ `apt install git && apt install python3`
+$ ```apt install git && apt install python3```
 
-$ `pip3 install colorama`
+$ ```pip3 install colorama```
 
-$ `git clone https://github.com/AmokDEV/VeryHardDosSystem`
+$ ```git clone https://github.com/AmokDEV/VeryHardDosSystem```
 
-$ `cd VeryHardDosSystem`
+$ ```cd VeryHardDosSystem```
 
-$ `python3 ddos.py`
+$ ```python3 ddos.py```
 
 😈 Далее смотрим инструкцию по команде help и ебашим
 
